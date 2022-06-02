@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **songzhixiang960425@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<br><br>
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 <p align="left">
 </p>
 
