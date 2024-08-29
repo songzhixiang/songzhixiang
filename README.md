@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=songzhixiang&label=Profile%20views&color=0e75b6&style=flat" alt="songzhixiang" /> </p>
 
-- 🌱 I’m currently learning **Framework,Android Auto**
+- 🌱 I’m currently learning **Framework,Android Automotive,Linux,Rust**
 
 - 💬 Ask me about **Java,Kotlin,C,C++**
 
